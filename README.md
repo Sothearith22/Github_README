@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sothearith</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Laravel+%7C+Spring+Boot;Building+Scalable+Apps;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Laravel+%7C+Spring+Boot+Developer;Always+Learning+New+Things" />
 </p>
 
 <!-- 👀 VISITOR COUNTER -->
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 - 🔭 Working on **Laravel Development**
-- 🌱 Learning **Spring Boot & Third-party Integration**
+- 🌱 Learning **Laravel & Third-party Integration**
 - 👯 Open to collaborate on **School Management System**
 - 🤝 Need help with **Frontend Development**
 - 💬 Ask me about **Backend & Mini Projects**
