@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- 🔥 HEADER -->
-<h1 align="center">Hi 👋, I'm Sothearith</h1>
+<h1 align="center">Hi 👋, I'm Sothearith Kim</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Laravel+%7C+Spring+Boot+Developer;Always+Learning+New+Things" />
@@ -15,12 +15,13 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Working on **Laravel Development**
+- 🔭 Working on **Backend Development**
 - 🌱 Learning **Laravel & Third-party Integration**
+- 🌱 Learning **Spring-boot-Restful-api**
 - 👯 Open to collaborate on **School Management System**
 - 🤝 Need help with **Frontend Development**
 - 💬 Ask me about **Backend & Mini Projects**
-- 📫 Email: **kim.sothearith2007@gmail.com**
+- 📫 Email: **kimsothearith2007@gmail.com**
 
 ---
 
@@ -39,7 +40,7 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,js,ts,react,vue,nodejs,express,python,mysql,postgres,docker,git,linux,figma,bash,c,cpp,bootstrap,redux" />
+<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,js,ts,react,python,mysql,postgres,sqlserver,docker,git,linux,bash,c,cpp,bootstrap,redux" />
 </p>
 
 ---
@@ -83,24 +84,29 @@
 ## 📌 Featured Projects
 
 ### 🏫 School Management System
-- Role-based authentication (Admin, Teacher, Student)
+- Role-based authentication ( Teacher, Student)
 - Attendance & grading system
 - REST API with Laravel
-
-### 🎬 YouTube Downloader Tool
-- Download video & audio
-- Select resolution (720p, 1080p)
-- Built with Python + yt-dlp
 
 ### 🌐 Portfolio Website
 - Responsive design
 - Built with React / Vite
 - Hosted on Vercel
 
+### 🌐 Room Booking Management System (fullstack web application)
+- Develop a full-stack room booking management system for handling
+  room reservations and user management.
+- Designed responsive user interface and integration frontend with
+  backend services.
+- Worked on authenication, database design, API validation, and team
+  collabration
+
+
+
 ---
 
 ## ⏱️ Coding Activity
 ```text
-Laravel     █████████░ 45%
-Spring Boot ███████░░ 30%
-React       ██████░░░ 25%
+Laravel     ███████░ 30%
+Spring Boot ███████░░ 50%
+React       █████░░░ 20%
