@@ -26,7 +26,7 @@
 ---
 
 ## 🌐 Portfolio
-👉 https://portfolio-chi-sandy-61.vercel.app/
+👉 https://github.com/Sothearith22/Portfolio-Web
 
 ---
 
@@ -93,7 +93,7 @@
 - Built with React / Vite
 - Hosted on Vercel
 
-### 🌐 Room Booking Management System (fullstack web application)
+### 🌐 Hotel Management System (fullstack web application)
 - Develop a full-stack room booking management system for handling
   room reservations and user management.
 - Designed responsive user interface and integration frontend with
@@ -108,5 +108,5 @@
 ## ⏱️ Coding Activity
 ```text
 Laravel     ███████░ 30%
-Spring Boot ███████░░ 50%
-React       █████░░░ 20%
+Spring Boot ███████░░ 30%
+React       █████░░░ 40%
