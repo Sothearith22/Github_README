@@ -124,7 +124,7 @@ Motivated **Full-Stack Developer** and 3rd-year **Information Technology** stude
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sothearith22&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=9E9E9E&icon_color=00F7FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sothearith22&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=9E9E9E&icon_color=00F7FF" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -132,7 +132,7 @@ Motivated **Full-Stack Developer** and 3rd-year **Information Technology** stude
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sothearith22&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sothearith22&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" alt="Top Languages" />
 </p>
 
 ---
@@ -140,7 +140,7 @@ Motivated **Full-Stack Developer** and 3rd-year **Information Technology** stude
 ## 📈 Activity & Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sothearith22&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=Sothearith22&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
