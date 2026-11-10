@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Sothearith Kim
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00F7FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Laravel+%7C+Spring+Boot+%7C+React;IT+Student+at+Royal+University+of+Phnom+Penh;Turning+Ideas+Into+Scalable+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00F7FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Laravel+%7C+Spring+Boot+%7C+Python;Odoo+Framework+%7C+React;IT+Student+at+Royal+University+of+Phnom+Penh" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,8 +22,8 @@ Motivated **Full-Stack Developer** and 3rd-year **Information Technology** stude
 
 - 🎓 **Education:** Information Technology at Royal University of Phnom Penh (RUPP)
 - 💼 **Experience:** Former Backend Developer Intern at **KRU IT Solution**
-- 🔭 **Current Focus:** Full-Stack & Backend Development with **Laravel**, **Spring Boot**, and **React**
-- 💡 **Interests:** Clean code, OOP, RESTful API architecture, and database design
+- 🔭 **Current Focus:** Full-Stack & Backend Development with **Laravel**, **Spring Boot**, **Python**, and **Odoo Framework**
+- 💡 **Interests:** Clean code, OOP, RESTful API architecture, ERP customization & database design
 - 📍 **Location:** Phnom Penh, Cambodia
 - 🌐 **Live Portfolio:** [portfolio-web-two-ashen.vercel.app](https://portfolio-web-two-ashen.vercel.app/)
 - 📫 **Contact:** [kimsothearith2007@gmail.com](mailto:kimsothearith2007@gmail.com)
@@ -47,9 +47,10 @@ Motivated **Full-Stack Developer** and 3rd-year **Information Technology** stude
   <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,html,css,bootstrap" alt="Frontend Tech" />
 </p>
 
-### ⚙️ Backend & API
+### ⚙️ Backend, Frameworks & ERP
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring" alt="Backend Tech" />
+  <img src="https://skillicons.dev/icons?i=py,php,laravel,java,spring" alt="Backend Tech" />
+  <a href="https://www.odoo.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Odoo_Framework-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="48" alt="Odoo Framework" /></a>
 </p>
 
 ### 🗄️ Database
